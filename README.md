@@ -20,9 +20,11 @@ Past meetings' materials:
 
 - [125meeting](https://github.com/IDRNG/125meeting)
 
-## Agenda
+## Preliminary Agenda
 
-TBD.
+1. Vasilis Giotsas (Cloudflare) — Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing
+2. Brad Gorman (ARIN) — BGP Security and RPKI Progress in ARIN
+3. Thomas Graf (Swisscom) — Bridging IRTF/IETF Collaboration on Network Management, Observability, Telemetry, and AIOps
 
 ## Links
 
