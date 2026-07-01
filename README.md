@@ -1,4 +1,4 @@
-# Next-Generation Inter-Domain Routing Architecture and Protocols
+# New Challenges and Directions for Internet Routing in the AI Era
 
 ## Intro
 
