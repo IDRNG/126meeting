@@ -28,7 +28,7 @@ Past meetings' materials:
 1. 9:30-9:35 Host (5 mins)
 2. 9:35-9:55 IRTF/IETF OPS Transfer between NMRG/NMOPS - Exploring Collaboration Opportunities (Thomas Graf - Swisscom - 20 mins)
 3. 9:55-10:15 Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing (Vasilis Giotsas - Cloudflare - 20 mins)
-4. 10:15-10:35 BGP Security and RPKI Progress in ARIN (Brad Gorman - ARIN - 20 mins)
+4. 10:15-10:35 Current solutions and challenges in routing security (Kotikalapudi Sriram - NIST - 20 mins)
 5. 10:35-11:00 QA and Discussions (25 mins)
 
 ## Links
