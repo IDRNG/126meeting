@@ -4,6 +4,8 @@
 
 Meeting materials repo for IDRNG in IETF 126, Vienna, Austria.
 
+The slides have been uploaded to the [slides](./slides) directory. You can also access the slides via the individual links below.
+
 - **Date/Time**: Wednesday, July 22, 2026, 9:30-11:00 (Europe/Vienna).
 - **Venue**: Grand Klimt Hall 3 ([check the map](https://datatracker.ietf.org/meeting/126/floor-plan?room=grand-klimt-hall-3)).
 
@@ -12,7 +14,7 @@ Meeting materials repo for IDRNG in IETF 126, Vienna, Austria.
 
 ## About
 
-This side meeting aims to explore emerging challenges and future directions for Internet routing in the AI era. As AI-driven applications increasingly reshape network traffic patterns, operational requirements, and infrastructure design, the routing community faces new opportunities and challenges in areas including routing architecture evolution, traffic engineering, security, network observability, automation, and intelligent operations. The meeting will provide a forum for researchers, operators, and industry practitioners to exchange perspectives on how routing technologies, architectures, and operational practices should evolve to address the networking demands of the AI era. Topics will include AI-driven BGP engineering, secure and resilient routing operations, network management, telemetry, observability, and AIOps-enabled network operations. 
+This side meeting aims to explore emerging challenges and future directions for Internet routing in the AI era. As AI-driven applications increasingly reshape network traffic patterns, operational requirements, and infrastructure design, the routing community faces new opportunities and challenges in areas including routing architecture evolution, traffic engineering, security, network observability, automation, and intelligent operations. The meeting will provide a forum for researchers, operators, and industry practitioners to exchange perspectives on how routing technologies, architectures, and operational practices should evolve to address the networking demands of the AI era. Topics will include AI-driven BGP engineering, secure and resilient routing operations, network management, telemetry, observability, and AIOps-enabled network operations.
 
 **Draft charter**: <https://github.com/IDRNG/IDRNG-Charter>.
 
@@ -23,13 +25,17 @@ Past meetings' materials:
 - [125meeting](https://github.com/IDRNG/125meeting)
 
 
-## Preliminary Agenda
+## Agenda
 
 1. 9:30-9:35 Host (5 mins)
+    - [slides]('./slides/Qi Li - IDRNG_126_Host.pdf')
 2. 9:35-9:55 IRTF/IETF OPS Transfer between NMRG/NMOPS - Exploring Collaboration Opportunities (Thomas Graf - Swisscom - 20 mins)
-3. 9:55-10:15 Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing (Vasilis Giotsas - Cloudflare - 20 mins)
-4. 10:15-10:35 Current Solutions and Challenges in Routing Security (Kotikalapudi Sriram - NIST - 20 mins)
-5. 10:35-11:00 QA and Discussions (25 mins)
+    - [slides]('./slides/Thomas Graf - IRTF and IETF OPS Transfer between NMRG and NMOPS.pdf')
+3. 9:55-10:25 Current Solutions and Challenges in Routing Security (Kotikalapudi Sriram - NIST - 20 mins)
+    - [slides]('./slides/Vasilis Giotsas - Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing.pdf')
+4. 10:25-10:55 Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing (Vasilis Giotsas - Cloudflare - 20 mins)
+    - [slides]('./slides/Kotikalapudi Sriram - Current Solutions and Challenges in Routing Security.pdf')
+5. 10:55-11:00 QA and Discussions (25 mins)
 
 ## Links
 
@@ -37,4 +43,4 @@ Past meetings' materials:
 - Pointer to IETF Sidemeetings Page: <https://sidemeetings.ietf.org/>
 - Meeting Notes:
   - Collaborative version with [Google Docs](https://docs.google.com/document/d/1Z4Nm-5GjLO_zsDJOR7bpoZ6GragSMTNPN9Ok5kwzvRM/edit?usp=sharing)
-  - Local version: TBD
+  - Local version: [minutes.md](./minutes.md)
