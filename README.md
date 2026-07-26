@@ -4,7 +4,7 @@
 
 Meeting materials repo for IDRNG in IETF 126, Vienna, Austria.
 
-The slides have been uploaded to the [slides](./slides) directory. You can also access the slides via the individual links below.
+The slides have been uploaded to the [slides](./slides) directory.
 
 - **Date/Time**: Wednesday, July 22, 2026, 9:30-11:00 (Europe/Vienna).
 - **Venue**: Grand Klimt Hall 3 ([check the map](https://datatracker.ietf.org/meeting/126/floor-plan?room=grand-klimt-hall-3)).
@@ -28,13 +28,9 @@ Past meetings' materials:
 ## Agenda
 
 1. 9:30-9:35 Host (5 mins)
-    - [slides](./slides/'Qi Li - IDRNG_126_Host.pdf')
 2. 9:35-9:55 IRTF/IETF OPS Transfer between NMRG/NMOPS - Exploring Collaboration Opportunities (Thomas Graf - Swisscom - 20 mins)
-    - [slides](./slides/'Thomas Graf - IRTF and IETF OPS Transfer between NMRG and NMOPS.pdf')
 3. 9:55-10:25 Current Solutions and Challenges in Routing Security (Kotikalapudi Sriram - NIST - 20 mins)
-    - [slides](./slides/'Vasilis Giotsas - Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing.pdf')
 4. 10:25-10:55 Opportunities and Challenges in AI-driven BGP Engineering for Anycast Routing (Vasilis Giotsas - Cloudflare - 20 mins)
-    - [slides](./slides/'Kotikalapudi Sriram - Current Solutions and Challenges in Routing Security.pdf')
 5. 10:55-11:00 QA and Discussions (25 mins)
 
 ## Links
