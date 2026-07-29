@@ -7,7 +7,7 @@
 - Venue: Grand Klimt Hall 3, Vienna
 - Organizer: Qi Li · idrng ·  <mailto:idrng.thu@gmail.com> <mailto:shenglinwh@163.com> <mailto:guoyangf19@tsinghua.org.cn>
 - Areas: IRTF
-- Attendees: It has almost 40 in-person attendees and 30 remote participants via WebEx.
+- Attendees: It has almost 30 in-person attendees and 30 remote participants via WebEx.
 
 ## Abstract
 
