@@ -5,7 +5,7 @@
 - Title: New Challenges and Directions for Internet Routing in the AI Era
 - Date/Time: Wednesday, July 22, 2026, 9:30-11:00 (Europe/Vienna).
 - Venue: Grand Klimt Hall 3, Vienna
-- Organizer: [Qi Li](mailto:qli01@tsinghua.edu.cn) [Shenglin Jiang](mailto:shenglinwh@163.com) [Yangfei Guo](mailto:guoyangf19@tsinghua.org.cn) | [idrng](mailto:idrng.thu@gmail.com)
+- Organizer: [Qi Li](mailto:qli01@tsinghua.edu.cn) |  [Shenglin Jiang](mailto:shenglinwh@163.com) | [Yangfei Guo](mailto:guoyangf19@tsinghua.org.cn) | [idrng](mailto:idrng.thu@gmail.com)
 - Areas: IRTF
 - Attendees: It has almost 30 in-person attendees and 30 remote participants via WebEx.
 
