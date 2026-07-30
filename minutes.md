@@ -28,6 +28,6 @@ This side meeting aims to explore emerging challenges and future directions for 
   - Summary: Anycast routing optimization through measurement-driven routing and AI-assisted prediction.
 - QA and Discussions (5 mins)
   - Dirk: What the challenges and the scope would really be.
-  - It would be very productive just to hold a group that is inviting more random paper presentations on routing topics.
+  - It would not be very productive just to hold a group that is inviting more random paper presentations on routing topics.
   - A more coherent research agenda is needed.
 
